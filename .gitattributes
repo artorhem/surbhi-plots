@@ -1,0 +1,5 @@
+STL/* filter=lfs diff=lfs merge=lfs -text
+cache-size/* filter=lfs diff=lfs merge=lfs -text
+dm-zoned/* filter=lfs diff=lfs merge=lfs -text
+lsdm/* filter=lfs diff=lfs merge=lfs -text
+remainder/* filter=lfs diff=lfs merge=lfs -text

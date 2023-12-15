@@ -1,0 +1,9 @@
+**/.DS_Store
+*.tar.gz
+STL/
+cache-size/
+dm-zoned/
+lsdm/
+plot_bw.py
+remainder/
+unused/
